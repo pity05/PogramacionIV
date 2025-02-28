@@ -1,3 +1,7 @@
+
+//LAB 1 PRISCILA DIAZ GARCIA 
+
+
 // 1
 const arr = [1, 2, 3];
 const [x, y] = arr;
@@ -23,7 +27,7 @@ let x = 10;
 
 
 //4
-let x = 5;
+let X = 5;
 let y = x++;
 console.log(y);
 //Salida esperada: 5
